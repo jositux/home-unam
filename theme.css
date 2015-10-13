@@ -9,6 +9,7 @@
  * 2. Prevents iOS text size adjust after orientation change, without disabling user zoom
  * 3. Style
  */
+/*Nuevo theme de la UNaM*/
 html {
   /* 1 */
   font: 400 16px / 28px 'PT Sans';
